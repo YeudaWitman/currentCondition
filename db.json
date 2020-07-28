@@ -1,23 +1,25 @@
 {
-  "LocalObservationDateTime": "2020-07-28T11:46:00+03:00",
-  "EpochTime": 1595925960,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
-  "IsDayTime": true,
-  "Temperature": {
-    "Metric": {
-      "Value": 30.7,
-      "Unit": "C",
-      "UnitType": 17
+  "data": {
+    "LocalObservationDateTime": "2020-07-28T11:46:00+03:00",
+    "EpochTime": 1595925960,
+    "WeatherText": "Sunny",
+    "WeatherIcon": 1,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": true,
+    "Temperature": {
+      "Metric": {
+        "Value": 30.7,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 87,
+        "Unit": "F",
+        "UnitType": 18
+      }
     },
-    "Imperial": {
-      "Value": 87,
-      "Unit": "F",
-      "UnitType": 18
-    }
-  },
-  "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
-  "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
+    "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
+  }
 }
